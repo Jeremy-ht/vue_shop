@@ -3,12 +3,10 @@ html, body, #app {
   height: 100%;
   margin: 0;
   padding: 0;
+  min-width: 1100px;
 }
 
-.el-table{
+.el-table {
   margin-top: 15px;
 }
 
-.el-card{
-  box-shadow: 0 0 0 rgba(0, 0, 0, .5); /*除去卡片阴影*/
-}
